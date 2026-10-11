@@ -36,4 +36,4 @@ Om jag hade mer tid skulle jag vilja struktura min CSS och minska upprepande reg
 
 Jag har använt ChatGPT som stöd under arbetet frsmförallt när jag fastnat i HTML och CSS för länge. Ai har hjälpt mig komma vidare men har förstått att man inte bara ska kopieran de som står utan be ai förklara så man även förstår koden och felen. Ibland har ai gett mig felaktiga koder då har jag behövt gå in testa annat och försöka igen.
 
-Länk till hemsidan: https://github.com/alamhaniah-cell/Portfolio-u01.git
+[Klicka här för att se min portfolio](https://alamhaniah-cell.github.io/Portfolio-u01/)
